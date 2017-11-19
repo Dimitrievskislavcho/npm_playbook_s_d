@@ -1,6 +1,6 @@
 {
   "name": "npm_playbook_s_d",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm playbook published simple hello world",
   "main": "index.js",
   "scripts": {
