@@ -1,0 +1,22 @@
+{
+  "name": "npm_playbook_s_d",
+  "version": "1.0.0",
+  "description": "npm playbook published simple hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimitrievskislavcho/npm_playbook_s_d.git"
+  },
+  "keywords": [
+    "npm_playbook"
+  ],
+  "author": "slavcho dimitrievski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimitrievskislavcho/npm_playbook_s_d/issues"
+  },
+  "homepage": "https://github.com/Dimitrievskislavcho/npm_playbook_s_d#readme"
+}
